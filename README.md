@@ -32,7 +32,7 @@ B sends A a positive int N as the message and A decoes each message by solving x
  Given a list of libs & their dependencies, and a target library we want to build, print out the perfect linkline according to the rules listed in the Output Specs
   Input Specs:
   1. Target lib
-  2. # of libs and dependencies
+  2. \# of libs and dependencies
   3 ~ [lib-name] [Q] [dep-1] [dep-2]
   (example):
   lib-x
