@@ -21,14 +21,14 @@ A B C D E F
 OUTPUT:
 I E F A G H
 
-## #2 Sum Sum Cryptography
+## 2 Sum Sum Cryptography
 B sends A a positive int N as the message and A decoes each message by solving x^2+y^2+z^2=N.
  Input Specs:
  3<=N<=3000000
  Output:
  Sum of all components of all unique (x,y,z) tuples
 
-## #3 Dependency Gambit
+## 3 Dependency Gambit
  Given a list of libs & their dependencies, and a target library we want to build, print out the perfect linkline according to the rules listed in the Output Specs
   Input Specs:
   1. Target lib
@@ -45,5 +45,5 @@ B sends A a positive int N as the message and A decoes each message by solving x
   (example):
   lib-a lib-b lib-c lib-x
   
-  ## #4 Halloween Candy
+  ## 4 Halloween Candy
   Find the max cost path within given # of path from the source to the target
