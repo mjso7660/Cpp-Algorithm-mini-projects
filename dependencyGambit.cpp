@@ -30,16 +30,12 @@ using namespace std;
 class Graph
 {
     int V;    // No. of vertices
- 
     list<int> *adj;
- 
     int DFSUtil(int v, bool visited[],vector<int>*);
     
     public:
     Graph(int V);   // Constructor
- 
     void addEdge(int v, int w);
- 
     void DFS(int v,map<string,int>&);
 };
 
