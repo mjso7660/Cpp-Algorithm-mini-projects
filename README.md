@@ -1,8 +1,10 @@
 # mini-projects
 mini-projects from CodeCon
 
-## #1 Volleyball rotations
-Players between 7 and 26 people on my team. Every rotation, one of the sidelines players will come into the court at position 1 while one player will eave the court at position 2 and join the sideline at the back of the line
+## 1. Volleyball rotations
+Players between 7 and 26 people on my team. Every rotation, one of the sidelines players will come into the court at position 1 while
+one player will eave the court at position 2 and join the sideline at the back of the line
+
 -------------------
 |  4  |  3  |  2 -|->
 |-----------------|
