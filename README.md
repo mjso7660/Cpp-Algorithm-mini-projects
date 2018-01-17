@@ -8,7 +8,7 @@ one player will eave the court at position 2 and join the sideline at the back o
 5 6 1 <-
 Setter will always be in the starting lineup and will not be rotated off the court
 Input specification:
- 1. # of rotations
+ 1. \# of rotations
  2. name of the setter
  3. The starting lineup
  4. The players on the sidelines
